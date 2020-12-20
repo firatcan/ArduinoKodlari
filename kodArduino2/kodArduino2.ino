@@ -11,6 +11,5 @@ void loop() {
   if(buton_durumu == 1)
   digitalWrite(Led,HIGH);
   else
-  digitalWrite(Led,LOW);
-  
+  digitalWrite(Led,LOW); 
 }
